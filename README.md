@@ -23,9 +23,3 @@ Welcome to the MyCompany Employee Directory project! This web application allows
 - **Database:**
   - MySQL
 
-## How to Run
-
-1. Clone the repository: `git clone https://github.com/your-username/employee-directory.git`
-2. Navigate to the project directory: `cd employee-directory`
-3. Run the application: (Add specific instructions for running your Spring Boot application)
-
